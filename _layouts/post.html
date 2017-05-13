@@ -4,7 +4,8 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date |date: "%B %d %Y  %T"}}</p>
 
-<h5><a href="{{ site.github.repository_url }}/edit/{{ page.path }}">Edit this page</a></h5>
 <div class="post">
   {{ content }}
 </div>
+
+<h6><a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}">Edit this page</a></h6>
