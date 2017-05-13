@@ -1,2 +1,12 @@
 name: JD
 markdown: kramdown
+description: JD's Blog
+avatar: https://avatars0.githubusercontent.com/u/23386056
+disqus: w-jd
+google_analytics:
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
