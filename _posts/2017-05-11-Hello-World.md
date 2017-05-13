@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello,World"
-date: 2017-05-11
+date: 2017-05-11 12:34:56
 category: hello
 categories: ['html', 'css']
 tags: ['html', 'css']
