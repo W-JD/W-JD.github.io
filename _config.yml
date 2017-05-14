@@ -3,7 +3,7 @@ markdown: kramdown
 description: JD's Blog
 avatar: https://avatars0.githubusercontent.com/u/23386056
 disqus: w-jd
-google_analytics:
+google_analytics: UA-84024113-2
 exclude:
   - Gemfile
   - Gemfile.lock
