@@ -1,0 +1,147 @@
+<html>
+	<head>
+		<title>Github style identicon generator	</title>
+		<style>
+			body { background: #333 }
+			canvas { margin: 1em }
+		</style>
+		<script src="http://www.myersdaily.org/joseph/javascript/md5.js"></script>
+	</head>
+	<body>
+		<script>
+		/*
+		 * Get query value from the url
+		 */
+		function getQueryVariable(variable) {
+		  var query = window.location.search.substring(1);
+		  var vars = query.split("&");
+		  for (var i=0;i<vars.length;i++) {
+			var pair = vars[i].split("=");
+			if (pair[0] == variable) {
+			  return pair[1];
+			}
+		  } 
+		}
+
+		(function() {
+		  // Max value for a color component
+		  var MAX_COLOR = 200;
+
+		  // Min value for a color component
+		  var MIN_COLOR = 120;
+
+		  // Chance of a square being filled [0, 1]
+		  var FILL_CHANCE =  0.5;
+
+		  // Size of a grid square in pixels
+		  var SQUARE = 16;
+
+		  // Number of squares width and height
+		  var GRID = 5;
+
+		  // Padding on the edge of the canvas in px
+		  var PADDING = SQUARE/2;
+
+		  // Size of the canvas
+		  var SIZE = SQUARE*GRID+PADDING*2;
+
+		  // Generated content (with default value)
+		  var DATA = 'fc5e038d38a57032085441e7fe7010b0';
+
+		  /*
+		   * Setup a context and size for a canvas
+		   */
+		  var setupCanvas = function(c) {
+			var ctx = c.getContext('2d');
+			c.width = SIZE;
+			c.height = SIZE;
+			return ctx;
+		  };
+
+		  /*
+		   * Fill in a square on the canvas.
+		   */
+		  var fillBlock = function(x, y, color, ctx) {
+			ctx.beginPath();
+			ctx.rect(
+			  PADDING+x*SQUARE,
+			  PADDING+y*SQUARE,
+			  SQUARE,
+			  SQUARE
+			);
+			ctx.fillStyle = 'rgb('+color.join(',')+')';
+			ctx.fill();
+		  };
+
+		  /*
+		   * Pick random squares to fill in.
+		   */
+		  var generateIdenticon = function(ctx) {
+			// FILL CANVAS BG
+			ctx.beginPath();
+			ctx.rect(0, 0, SIZE, SIZE);
+			ctx.fillStyle = '#F0ECE6';
+			ctx.fill();
+
+			// GENERATE COLOR
+			var color = genColor();
+
+			// FILL THE SQUARES
+			for (var x=0; x<Math.ceil(GRID/2); x++) {
+			  for (var y=0; y<GRID; y++) {
+				
+				// CALCULATE HASH POSITION
+				var position = ((GRID * x) + y);
+				
+				// IF POSITION OVER INDEXING THE HASH, BEGIN OVER AGAIN
+				if (position > DATA.length){
+					position = position - DATA.length;
+				}
+				
+				var actual = parseInt(DATA[position],16)
+				if (actual < (FILL_CHANCE * 16)) {
+				  fillBlock(x, y, color, ctx);
+
+				  // FILL RIGHT SIDE SYMMETRICALLY
+				  if (x < Math.floor(GRID/2)) {
+					fillBlock((GRID-1) - x, y, color, ctx);
+				  }
+				}
+			  }
+			}
+		  };
+
+		  /*
+		   * Get a color with low saturation.
+		   */
+		  var genColor = function() {
+			var rgb = [ ];
+			for (var i=0; i<3; i++) {
+			  var val = Math.floor(parseInt(DATA[i],16) * 16);
+			  var minEnforced = Math.max(MIN_COLOR, val);
+			  var maxEnforced = Math.min(MAX_COLOR, minEnforced);
+			  rgb.push(maxEnforced);
+			}
+			return rgb;
+		  };
+
+		  var render = function() {
+			// GET THE IDENTIFIER? AND CALCULATE THE HASH
+			var id = getQueryVariable('id');
+			if (id != null){
+				var hash = md5(id.toLowerCase());
+				DATA = hash;
+			}
+			
+			generateIdenticon(context2d);
+		  };
+
+		  // SETUP THE CANVAS AND DRAWING CONTEXT
+		  var canvas = document.createElement('canvas');
+		  var context2d = setupCanvas(canvas);
+		  document.body.appendChild(canvas);
+		  render();
+		})();
+		</script>
+	</body>
+</html>
