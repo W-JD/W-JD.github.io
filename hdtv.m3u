@@ -1,326 +1,327 @@
 #EXTM3U
 
-#EXTINF:-1,CCTV-1高清
+
+#EXTINF:-1 group-title="TV",CCTV-1高清
 http://media2.neu6.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1,CCTV-1高清
+#EXTINF:-1 group-title="TV",CCTV-1高清
 http://media2.neu6.edu.cn/hls/jlu_cctv1hd.m3u8
-#EXTINF:-1,CCTV-1高清
+#EXTINF:-1 group-title="TV",CCTV-1高清
 http://media2.neu6.edu.cn/hls/hls74a2.m3u8
-#EXTINF:-1,CCTV-2高清
+#EXTINF:-1 group-title="TV",CCTV-2高清
 http://media2.neu6.edu.cn/hls/jlu_cctv2hd.m3u8
-#EXTINF:-1,CCTV-2高清
+#EXTINF:-1 group-title="TV",CCTV-2高清
 http://media2.neu6.edu.cn/hls/hls74a3.m3u8
-#EXTINF:-1,CCTV-3高清
+#EXTINF:-1 group-title="TV",CCTV-3高清
 http://media2.neu6.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1,CCTV-3高清
+#EXTINF:-1 group-title="TV",CCTV-3高清
 http://media2.neu6.edu.cn/hls/hls74a4.m3u8
-#EXTINF:-1,CCTV-4高清
+#EXTINF:-1 group-title="TV",CCTV-4高清
 http://media2.neu6.edu.cn/hls/hls68a40.m3u8
-#EXTINF:-1,CCTV-5高清
+#EXTINF:-1 group-title="TV",CCTV-5高清
 http://media2.neu6.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1,CCTV-5高清
+#EXTINF:-1 group-title="TV",CCTV-5高清
 http://media2.neu6.edu.cn/hls/hls73a5.m3u8
-#EXTINF:-1,CCTV-5高清
+#EXTINF:-1 group-title="TV",CCTV-5高清
 http://media2.neu6.edu.cn/hls/jlu_cctv5hd.m3u8
-#EXTINF:-1,CCTV-5+高清
+#EXTINF:-1 group-title="TV",CCTV-5+高清
 http://media2.neu6.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1,CCTV-5+高清
+#EXTINF:-1 group-title="TV",CCTV-5+高清
 http://media2.neu6.edu.cn/hls/jlu_cctv5p.m3u8
-#EXTINF:-1,CCTV-5+高清
+#EXTINF:-1 group-title="TV",CCTV-5+高清
 http://media2.neu6.edu.cn/hls/hls73a6.m3u8
-#EXTINF:-1,CCTV-6高清
+#EXTINF:-1 group-title="TV",CCTV-6高清
 http://media2.neu6.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1,CCTV-6高清
+#EXTINF:-1 group-title="TV",CCTV-6高清
 http://media2.neu6.edu.cn/hls/hls73a7.m3u8
-#EXTINF:-1,CCTV-7高清
+#EXTINF:-1 group-title="TV",CCTV-7高清
 http://media2.neu6.edu.cn/hls/hls73a8.m3u8
-#EXTINF:-1,CCTV-8高清
+#EXTINF:-1 group-title="TV",CCTV-8高清
 http://media2.neu6.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1,CCTV-8高清
+#EXTINF:-1 group-title="TV",CCTV-8高清
 http://media2.neu6.edu.cn/hls/hls72a9.m3u8
-#EXTINF:-1,CCTV-9高清
+#EXTINF:-1 group-title="TV",CCTV-9高清
 http://media2.neu6.edu.cn/hls/hls72a10.m3u8
-#EXTINF:-1,CCTV-10高清
+#EXTINF:-1 group-title="TV",CCTV-10高清
 http://media2.neu6.edu.cn/hls/hls72a11.m3u8
-#EXTINF:-1,CCTV-12高清
+#EXTINF:-1 group-title="TV",CCTV-12高清
 http://media2.neu6.edu.cn/hls/hls72a12.m3u8
-#EXTINF:-1,CCTV-14高清
+#EXTINF:-1 group-title="TV",CCTV-14高清
 http://media2.neu6.edu.cn/hls/hls71a13.m3u8
-#EXTINF:-1,CGTN高清
+#EXTINF:-1 group-title="TV",CGTN高清
 http://media2.neu6.edu.cn/hls/hls67a43.m3u8
-#EXTINF:-1,CGTN-DOC高清
+#EXTINF:-1 group-title="TV",CGTN-DOC高清
 http://media2.neu6.edu.cn/hls/hls67a44.m3u8
-#EXTINF:-1,CETV-1高清
+#EXTINF:-1 group-title="TV",CETV-1高清
 http://media2.neu6.edu.cn/hls/hls67a45.m3u8
-#EXTINF:-1,CHC高清电影
+#EXTINF:-1 group-title="TV",CHC高清电影
 http://media2.neu6.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,上视纪实
+#EXTINF:-1 group-title="TV",上视纪实
 http://media2.neu6.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1,金鹰纪实
+#EXTINF:-1 group-title="TV",金鹰纪实
 http://media2.neu6.edu.cn/hls/gedocu.m3u8
-#EXTINF:-1,北京卫视高清
+#EXTINF:-1 group-title="TV",北京卫视高清
 http://media2.neu6.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1,北京卫视高清
+#EXTINF:-1 group-title="TV",北京卫视高清
 http://media2.neu6.edu.cn/hls/hls69a21.m3u8
-#EXTINF:-1,北京文艺高清
+#EXTINF:-1 group-title="TV",北京文艺高清
 http://media2.neu6.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1,北京影视高清
+#EXTINF:-1 group-title="TV",北京影视高清
 http://media2.neu6.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1,北京体育高清
+#EXTINF:-1 group-title="TV",北京体育高清
 http://media2.neu6.edu.cn/hls/btv6hd.m3u8
-#EXTINF:-1,北京新闻高清
+#EXTINF:-1 group-title="TV",北京新闻高清
 http://media2.neu6.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1,北京纪实高清
+#EXTINF:-1 group-title="TV",北京纪实高清
 http://media2.neu6.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1,北京纪实高清
+#EXTINF:-1 group-title="TV",北京纪实高清
 http://media2.neu6.edu.cn/hls/hls69a25.m3u8
-#EXTINF:-1,湖南卫视高清
+#EXTINF:-1 group-title="TV",湖南卫视高清
 http://media2.neu6.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1,湖南卫视高清
+#EXTINF:-1 group-title="TV",湖南卫视高清
 http://media2.neu6.edu.cn/hls/jlu_hnhd.m3u8
-#EXTINF:-1,湖南卫视高清
+#EXTINF:-1 group-title="TV",湖南卫视高清
 http://media2.neu6.edu.cn/hls/hls71a15.m3u8
-#EXTINF:-1,浙江卫视高清
+#EXTINF:-1 group-title="TV",浙江卫视高清
 http://media2.neu6.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1,浙江卫视高清
+#EXTINF:-1 group-title="TV",浙江卫视高清
 http://media2.neu6.edu.cn/hls/jlu_zjhd.m3u8
-#EXTINF:-1,浙江卫视高清
+#EXTINF:-1 group-title="TV",浙江卫视高清
 http://media2.neu6.edu.cn/hls/hls68a51.m3u8
-#EXTINF:-1,江苏卫视高清
+#EXTINF:-1 group-title="TV",江苏卫视高清
 http://media2.neu6.edu.cn/hls/jshd.m3u8
-#EXTINF:-1,江苏卫视高清
+#EXTINF:-1 group-title="TV",江苏卫视高清
 http://media2.neu6.edu.cn/hls/hls68a52.m3u8
-#EXTINF:-1,东方卫视高清
+#EXTINF:-1 group-title="TV",东方卫视高清
 http://media2.neu6.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1,东方卫视高清
+#EXTINF:-1 group-title="TV",东方卫视高清
 http://media2.neu6.edu.cn/hls/hls69a24.m3u8
-#EXTINF:-1,东方卫视高清
+#EXTINF:-1 group-title="TV",东方卫视高清
 http://media2.neu6.edu.cn/hls/jlu_dfhd.m3u8
-#EXTINF:-1,安徽卫视高清
+#EXTINF:-1 group-title="TV",安徽卫视高清
 http://media2.neu6.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1,安徽卫视高清
+#EXTINF:-1 group-title="TV",安徽卫视高清
 http://media2.neu6.edu.cn/hls/hls71a16.m3u8
-#EXTINF:-1,黑龙江卫视高清
+#EXTINF:-1 group-title="TV",黑龙江卫视高清
 http://media2.neu6.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1,黑龙江卫视高清
+#EXTINF:-1 group-title="TV",黑龙江卫视高清
 http://media2.neu6.edu.cn/hls/hls71a14.m3u8
-#EXTINF:-1,辽宁卫视高清
+#EXTINF:-1 group-title="TV",辽宁卫视高清
 http://media2.neu6.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1,辽宁卫视高清
+#EXTINF:-1 group-title="TV",辽宁卫视高清
 http://media2.neu6.edu.cn/hls/hls74a1.m3u8
-#EXTINF:-1,深圳卫视高清
+#EXTINF:-1 group-title="TV",深圳卫视高清
 http://media2.neu6.edu.cn/hls/szhd.m3u8
-#EXTINF:-1,深圳卫视高清
+#EXTINF:-1 group-title="TV",深圳卫视高清
 http://media2.neu6.edu.cn/hls/hls70a20.m3u8
-#EXTINF:-1,广东卫视高清
+#EXTINF:-1 group-title="TV",广东卫视高清
 http://media2.neu6.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1,广东卫视高清
+#EXTINF:-1 group-title="TV",广东卫视高清
 http://media2.neu6.edu.cn/hls/hls70a19.m3u8
-#EXTINF:-1,天津卫视高清
+#EXTINF:-1 group-title="TV",天津卫视高清
 http://media2.neu6.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1,天津卫视高清
+#EXTINF:-1 group-title="TV",天津卫视高清
 http://media2.neu6.edu.cn/hls/hls69a22.m3u8
-#EXTINF:-1,湖北卫视高清
+#EXTINF:-1 group-title="TV",湖北卫视高清
 http://media2.neu6.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1,湖北卫视高清
+#EXTINF:-1 group-title="TV",湖北卫视高清
 http://media2.neu6.edu.cn/hls/hls70a17.m3u8
-#EXTINF:-1,山东卫视高清
+#EXTINF:-1 group-title="TV",山东卫视高清
 http://media2.neu6.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1,山东卫视高清
+#EXTINF:-1 group-title="TV",山东卫视高清
 http://media2.neu6.edu.cn/hls/hls70a18.m3u8
-#EXTINF:-1,重庆卫视高清
+#EXTINF:-1 group-title="TV",重庆卫视高清
 http://media2.neu6.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1,重庆卫视高清
+#EXTINF:-1 group-title="TV",重庆卫视高清
 http://media2.neu6.edu.cn/hls/hls68a41.m3u8
-#EXTINF:-1,四川卫视高清
+#EXTINF:-1 group-title="TV",四川卫视高清
 http://media2.neu6.edu.cn/hls/schd.m3u8
-#EXTINF:-1,四川卫视高清
+#EXTINF:-1 group-title="TV",四川卫视高清
 http://media2.neu6.edu.cn/hls/hls67a42.m3u8
-#EXTINF:-1,福建东南卫视高清
+#EXTINF:-1 group-title="TV",福建东南卫视高清
 http://media2.neu6.edu.cn/hls/dnhd.m3u8
-#EXTINF:-1,河北卫视高清
+#EXTINF:-1 group-title="TV",河北卫视高清
 http://media2.neu6.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1,江西卫视高清
+#EXTINF:-1 group-title="TV",江西卫视高清
 http://media2.neu6.edu.cn/hls/jxhd.m3u8
-#EXTINF:-1,CCTV-1综合
+#EXTINF:-1 group-title="TV",CCTV-1综合
 http://media2.neu6.edu.cn/hls/cctv1.m3u8
-#EXTINF:-1,CCTV-2财经
+#EXTINF:-1 group-title="TV",CCTV-2财经
 http://media2.neu6.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1,CCTV-3综艺
+#EXTINF:-1 group-title="TV",CCTV-3综艺
 http://media2.neu6.edu.cn/hls/cctv3.m3u8
-#EXTINF:-1,CCTV-4中文国际
+#EXTINF:-1 group-title="TV",CCTV-4中文国际
 http://media2.neu6.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1,CCTV-5体育
+#EXTINF:-1 group-title="TV",CCTV-5体育
 http://media2.neu6.edu.cn/hls/cctv5.m3u8
-#EXTINF:-1,CCTV-6电影
+#EXTINF:-1 group-title="TV",CCTV-6电影
 http://media2.neu6.edu.cn/hls/cctv6.m3u8
-#EXTINF:-1,CCTV-7军事农业
+#EXTINF:-1 group-title="TV",CCTV-7军事农业
 http://media2.neu6.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1,CCTV-8电视剧
+#EXTINF:-1 group-title="TV",CCTV-8电视剧
 http://media2.neu6.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1,CCTV-9纪录
+#EXTINF:-1 group-title="TV",CCTV-9纪录
 http://media2.neu6.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1,CCTV-10科教
+#EXTINF:-1 group-title="TV",CCTV-10科教
 http://media2.neu6.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1,CCTV-11戏曲
+#EXTINF:-1 group-title="TV",CCTV-11戏曲
 http://media2.neu6.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1,CCTV-12社会与法
+#EXTINF:-1 group-title="TV",CCTV-12社会与法
 http://media2.neu6.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1,CCTV-13新闻
+#EXTINF:-1 group-title="TV",CCTV-13新闻
 http://media2.neu6.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1,CCTV-13新闻
+#EXTINF:-1 group-title="TV",CCTV-13新闻
 http://media2.neu6.edu.cn/hls/jlu_cctv13.m3u8
-#EXTINF:-1,CCTV-14少儿
+#EXTINF:-1 group-title="TV",CCTV-14少儿
 http://media2.neu6.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1,CCTV-15音乐
+#EXTINF:-1 group-title="TV",CCTV-15音乐
 http://media2.neu6.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1,CGTN
+#EXTINF:-1 group-title="TV",CGTN
 http://media2.neu6.edu.cn/hls/cctv16.m3u8
-#EXTINF:-1,第一剧场
+#EXTINF:-1 group-title="TV",第一剧场
 http://media2.neu6.edu.cn/hls/dyjctv.m3u8
-#EXTINF:-1,风云剧场
+#EXTINF:-1 group-title="TV",风云剧场
 http://media2.neu6.edu.cn/hls/fyjctv.m3u8
-#EXTINF:-1,风云音乐
+#EXTINF:-1 group-title="TV",风云音乐
 http://media2.neu6.edu.cn/hls/fyyytv.m3u8
-#EXTINF:-1,风云足球
+#EXTINF:-1 group-title="TV",风云足球
 http://media2.neu6.edu.cn/hls/fyzqtv.m3u8
-#EXTINF:-1,怀旧剧场
+#EXTINF:-1 group-title="TV",怀旧剧场
 http://media2.neu6.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1,世界地理
+#EXTINF:-1 group-title="TV",世界地理
 http://media2.neu6.edu.cn/hls/sjdltv.m3u8
-#EXTINF:-1,国防军事
+#EXTINF:-1 group-title="TV",国防军事
 http://media2.neu6.edu.cn/hls/gfjstv.m3u8
-#EXTINF:-1,北京卫视
+#EXTINF:-1 group-title="TV",北京卫视
 http://media2.neu6.edu.cn/hls/btv1.m3u8
-#EXTINF:-1,北京文艺
+#EXTINF:-1 group-title="TV",北京文艺
 http://media2.neu6.edu.cn/hls/btv2.m3u8
-#EXTINF:-1,北京科教
+#EXTINF:-1 group-title="TV",北京科教
 http://media2.neu6.edu.cn/hls/btv3.m3u8
-#EXTINF:-1,北京影视
+#EXTINF:-1 group-title="TV",北京影视
 http://media2.neu6.edu.cn/hls/btv4.m3u8
-#EXTINF:-1,北京财经
+#EXTINF:-1 group-title="TV",北京财经
 http://media2.neu6.edu.cn/hls/btv5.m3u8
-#EXTINF:-1,北京体育
+#EXTINF:-1 group-title="TV",北京体育
 http://media2.neu6.edu.cn/hls/btv6.m3u8
-#EXTINF:-1,北京生活
+#EXTINF:-1 group-title="TV",北京生活
 http://media2.neu6.edu.cn/hls/btv7.m3u8
-#EXTINF:-1,北京青年
+#EXTINF:-1 group-title="TV",北京青年
 http://media2.neu6.edu.cn/hls/btv8.m3u8
-#EXTINF:-1,北京新闻
+#EXTINF:-1 group-title="TV",北京新闻
 http://media2.neu6.edu.cn/hls/btv9.m3u8
-#EXTINF:-1,北京卡酷少儿
+#EXTINF:-1 group-title="TV",北京卡酷少儿
 http://media2.neu6.edu.cn/hls/btv10.m3u8
-#EXTINF:-1,深圳卫视
+#EXTINF:-1 group-title="TV",深圳卫视
 http://media2.neu6.edu.cn/hls/sztv.m3u8
-#EXTINF:-1,安徽卫视
+#EXTINF:-1 group-title="TV",安徽卫视
 http://media2.neu6.edu.cn/hls/ahtv.m3u8
-#EXTINF:-1,河南卫视
+#EXTINF:-1 group-title="TV",河南卫视
 http://media2.neu6.edu.cn/hls/hntv.m3u8
-#EXTINF:-1,陕西卫视
+#EXTINF:-1 group-title="TV",陕西卫视
 http://media2.neu6.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1,吉林卫视
+#EXTINF:-1 group-title="TV",吉林卫视
 http://media2.neu6.edu.cn/hls/jltv.m3u8
-#EXTINF:-1,广东卫视
+#EXTINF:-1 group-title="TV",广东卫视
 http://media2.neu6.edu.cn/hls/gdtv.m3u8
-#EXTINF:-1,山东卫视
+#EXTINF:-1 group-title="TV",山东卫视
 http://media2.neu6.edu.cn/hls/sdtv.m3u8
-#EXTINF:-1,湖北卫视
+#EXTINF:-1 group-title="TV",湖北卫视
 http://media2.neu6.edu.cn/hls/hbtv.m3u8
-#EXTINF:-1,广西卫视
+#EXTINF:-1 group-title="TV",广西卫视
 http://media2.neu6.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1,河北卫视
+#EXTINF:-1 group-title="TV",河北卫视
 http://media2.neu6.edu.cn/hls/hebtv.m3u8
-#EXTINF:-1,西藏卫视
+#EXTINF:-1 group-title="TV",西藏卫视
 http://media2.neu6.edu.cn/hls/xztv.m3u8
-#EXTINF:-1,内蒙古卫视
+#EXTINF:-1 group-title="TV",内蒙古卫视
 http://media2.neu6.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1,青海卫视
+#EXTINF:-1 group-title="TV",青海卫视
 http://media2.neu6.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1,四川卫视
+#EXTINF:-1 group-title="TV",四川卫视
 http://media2.neu6.edu.cn/hls/sctv.m3u8
-#EXTINF:-1,江苏卫视
+#EXTINF:-1 group-title="TV",江苏卫视
 http://media2.neu6.edu.cn/hls/jstv.m3u8
-#EXTINF:-1,天津卫视
+#EXTINF:-1 group-title="TV",天津卫视
 http://media2.neu6.edu.cn/hls/tjtv.m3u8
-#EXTINF:-1,山西卫视
+#EXTINF:-1 group-title="TV",山西卫视
 http://media2.neu6.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1,辽宁卫视
+#EXTINF:-1 group-title="TV",辽宁卫视
 http://media2.neu6.edu.cn/hls/lntv.m3u8
-#EXTINF:-1,厦门卫视
+#EXTINF:-1 group-title="TV",厦门卫视
 http://media2.neu6.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1,新疆卫视
+#EXTINF:-1 group-title="TV",新疆卫视
 http://media2.neu6.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1,东方卫视
+#EXTINF:-1 group-title="TV",东方卫视
 http://media2.neu6.edu.cn/hls/dftv.m3u8
-#EXTINF:-1,黑龙江卫视
+#EXTINF:-1 group-title="TV",黑龙江卫视
 http://media2.neu6.edu.cn/hls/hljtv.m3u8
-#EXTINF:-1,湖南卫视
+#EXTINF:-1 group-title="TV",湖南卫视
 http://media2.neu6.edu.cn/hls/hunantv.m3u8
-#EXTINF:-1,云南卫视
+#EXTINF:-1 group-title="TV",云南卫视
 http://media2.neu6.edu.cn/hls/yntv.m3u8
-#EXTINF:-1,江西卫视
+#EXTINF:-1 group-title="TV",江西卫视
 http://media2.neu6.edu.cn/hls/jxtv.m3u8
-#EXTINF:-1,福建东南卫视
+#EXTINF:-1 group-title="TV",福建东南卫视
 http://media2.neu6.edu.cn/hls/dntv.m3u8
-#EXTINF:-1,浙江卫视
+#EXTINF:-1 group-title="TV",浙江卫视
 http://media2.neu6.edu.cn/hls/zjtv.m3u8
-#EXTINF:-1,贵州卫视
+#EXTINF:-1 group-title="TV",贵州卫视
 http://media2.neu6.edu.cn/hls/gztv.m3u8
-#EXTINF:-1,宁夏卫视
+#EXTINF:-1 group-title="TV",宁夏卫视
 http://media2.neu6.edu.cn/hls/nxtv.m3u8
-#EXTINF:-1,甘肃卫视
+#EXTINF:-1 group-title="TV",甘肃卫视
 http://media2.neu6.edu.cn/hls/gstv.m3u8
-#EXTINF:-1,重庆卫视
+#EXTINF:-1 group-title="TV",重庆卫视
 http://media2.neu6.edu.cn/hls/cqtv.m3u8
-#EXTINF:-1,兵团卫视
+#EXTINF:-1 group-title="TV",兵团卫视
 http://media2.neu6.edu.cn/hls/bttv.m3u8
-#EXTINF:-1,旅游卫视
+#EXTINF:-1 group-title="TV",旅游卫视
 http://media2.neu6.edu.cn/hls/lytv.m3u8
-#EXTINF:-1,凤凰中文
+#EXTINF:-1 group-title="TV",凤凰中文
 http://media2.neu6.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1,凤凰资讯
+#EXTINF:-1 group-title="TV",凤凰资讯
 http://media2.neu6.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1,凤凰电影
+#EXTINF:-1 group-title="TV",凤凰电影
 http://media2.neu6.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1,星空卫视
+#EXTINF:-1 group-title="TV",星空卫视
 http://media2.neu6.edu.cn/hls/startv.m3u8
-#EXTINF:-1,Star Sports
+#EXTINF:-1 group-title="TV",Star Sports
 http://media2.neu6.edu.cn/hls/starsports.m3u8
-#EXTINF:-1,Channel[V]
+#EXTINF:-1 group-title="TV",Channel[V]
 http://media2.neu6.edu.cn/hls/channelv.m3u8
-#EXTINF:-1,探索频道
+#EXTINF:-1 group-title="TV",探索频道
 http://media2.neu6.edu.cn/hls/discovery.m3u8
-#EXTINF:-1,国家地理频道
+#EXTINF:-1 group-title="TV",国家地理频道
 http://media2.neu6.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1,CHC家庭影院
+#EXTINF:-1 group-title="TV",CHC家庭影院
 http://media2.neu6.edu.cn/hls/chctv.m3u8
-#EXTINF:-1,CHC动作电影
+#EXTINF:-1 group-title="TV",CHC动作电影
 http://media2.neu6.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1,金鹰卡通
+#EXTINF:-1 group-title="TV",金鹰卡通
 http://media2.neu6.edu.cn/hls/jykttv.m3u8
-#EXTINF:-1,嘉佳卡通
+#EXTINF:-1 group-title="TV",嘉佳卡通
 http://media2.neu6.edu.cn/hls/jjkttv.m3u8
-#EXTINF:-1,炫动卡通
+#EXTINF:-1 group-title="TV",炫动卡通
 http://media2.neu6.edu.cn/hls/xdkttv.m3u8
-#EXTINF:-1,优漫卡通
+#EXTINF:-1 group-title="TV",优漫卡通
 http://media2.neu6.edu.cn/hls/ymkttv.m3u8
-#EXTINF:-1,中国教育1
+#EXTINF:-1 group-title="TV",中国教育1
 http://media2.neu6.edu.cn/hls/cetv1.m3u8
-#EXTINF:-1,中国教育3
+#EXTINF:-1 group-title="TV",中国教育3
 http://media2.neu6.edu.cn/hls/cetv3.m3u8
-#EXTINF:-1,中国教育4
+#EXTINF:-1 group-title="TV",中国教育4
 http://media2.neu6.edu.cn/hls/cetv4.m3u8
-#EXTINF:-1,山东教育
+#EXTINF:-1 group-title="TV",山东教育
 http://media2.neu6.edu.cn/hls/sdetv.m3u8
-#EXTINF:-1,党建生活1
+#EXTINF:-1 group-title="TV",党建生活1
 http://media2.neu6.edu.cn/hls/djsh1.m3u8
-#EXTINF:-1,党建生活2
+#EXTINF:-1 group-title="TV",党建生活2
 http://media2.neu6.edu.cn/hls/djsh2.m3u8
-#EXTINF:-1,党建生活3
+#EXTINF:-1 group-title="TV",党建生活3
 http://media2.neu6.edu.cn/hls/djsh3.m3u8
-#EXTINF:-1,党建生活4
+#EXTINF:-1 group-title="TV",党建生活4
 http://media2.neu6.edu.cn/hls/djsh4.m3u8
-#EXTINF:-1,党建生活5
+#EXTINF:-1 group-title="TV",党建生活5
 http://media2.neu6.edu.cn/hls/djsh5.m3u8
-#EXTINF:-1,吉视都市
+#EXTINF:-1 group-title="TV",吉视都市
 http://media2.neu6.edu.cn/hls/jlu_jsds.m3u8
