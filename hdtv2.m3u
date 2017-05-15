@@ -1,0 +1,666 @@
+#EXTM3U
+
+#EXTINF:0, CCTV-1
+http://tv.sau6.com/hls74a2.m3u8
+#EXTINF:0, CCTV-1
+http://tv.sau6.com/hls27.m3u8
+#EXTINF:0, CCTV-1
+http://tv.sau6.com/cctv1hd.m3u8
+#EXTINF:0, CCTV-2
+http://tv.sau6.com/hls74a3.m3u8
+#EXTINF:0, CCTV-2
+http://tv.sau6.com/hls135.m3u8
+#EXTINF:0, CCTV-2
+http://tv.sau6.com/cctv2.m3u8
+#EXTINF:0, CCTV-3
+http://tv.sau6.com/hls74a4.m3u8
+#EXTINF:0, CCTV-3
+http://tv.sau6.com/cctv3hd.m3u8
+#EXTINF:0, CCTV-3
+http://tv.sau6.com/lzu-cctv3.m3u8
+#EXTINF:0, CCTV-4
+http://tv.sau6.com/hls68a40.m3u8
+#EXTINF:0, CCTV-4
+http://tv.sau6.com/hls4.m3u8
+#EXTINF:0, CCTV-5
+http://tv.sau6.com/hls73a5.m3u8
+#EXTINF:0, CCTV-5
+http://tv.sau6.com/cctv5hd.m3u8
+#EXTINF:0, CCTV-5
+http://tv.sau6.com/lzu-cctv5.m3u8
+#EXTINF:0, CCTV-5
+http://tv.sau6.com/jlu_cctv5hd.m3u8
+#EXTINF:0, CCTV-5
+http://tv.sau6.com/cctv5.m3u8
+#EXTINF:0, CCTV-5+
+http://tv.sau6.com/hls73a6.m3u8
+#EXTINF:0, CCTV-5+
+http://tv.sau6.com/cctv5phd.m3u8
+#EXTINF:0, CCTV-5+
+http://tv.sau6.com/jlu_cctv5p.m3u8
+#EXTINF:0, CCTV-6
+http://tv.sau6.com/hls73a7.m3u8
+#EXTINF:0, CCTV-6
+http://tv.sau6.com/cctv6hd.m3u8
+#EXTINF:0, CCTV-6
+http://tv.sau6.com/lzu-cctv6.m3u8
+#EXTINF:0, CCTV-6
+http://tv.sau6.com/cctv6.m3u8
+#EXTINF:0, CCTV-7
+http://tv.sau6.com/hls73a8.m3u8
+#EXTINF:0, CCTV-7
+http://tv.sau6.com/hls136.m3u8
+#EXTINF:0, CCTV-8
+http://tv.sau6.com/hls72a9.m3u8
+#EXTINF:0, CCTV-8
+http://tv.sau6.com/cctv8hd.m3u8
+#EXTINF:0, CCTV-8
+http://tv.sau6.com/lzu-cctv8.m3u8
+#EXTINF:0, CCTV-8
+http://tv.sau6.com/cctv8.m3u8
+#EXTINF:0, CCTV-9
+http://tv.sau6.com/hls72a10.m3u8
+#EXTINF:0, CCTV-9
+http://tv.sau6.com/hls137.m3u8
+#EXTINF:0, CCTV-10
+http://tv.sau6.com/hls72a11.m3u8
+#EXTINF:0, CCTV-10
+http://tv.sau6.com/hls138.m3u8
+#EXTINF:0, 家庭影院高清
+http://tv.sau6.com/hls166.m3u8
+#EXTINF:0, 卡通剧场高清
+http://tv.sau6.com/hls167.m3u8
+#EXTINF:0, CCTV-12
+http://tv.sau6.com/hls72a12.m3u8
+#EXTINF:0, CCTV-12
+http://tv.sau6.com/hls139.m3u8
+#EXTINF:0, 家庭剧场高清
+http://tv.sau6.com/hls165.m3u8
+#EXTINF:0, CCTV-14
+http://tv.sau6.com/hls71a13.m3u8
+#EXTINF:0, CCTV-14
+http://tv.sau6.com/hls140.m3u8
+#EXTINF:0, 大众影视高清
+http://tv.sau6.com/hls164.m3u8
+#EXTINF:0, CHC高清电影
+http://tv.sau6.com/chchd.m3u8
+#EXTINF:0, BJTV-1
+http://tv.sau6.com/hls69a21.m3u8
+#EXTINF:0, BJTV-1
+http://tv.sau6.com/hls117.m3u8
+#EXTINF:0, BJTV-1
+http://tv.sau6.com/btv1hd.m3u8
+#EXTINF:0, BJTV-2
+http://tv.sau6.com/btv2hd.m3u8
+#EXTINF:0, BJTV-6
+http://tv.sau6.com/btv6hd.m3u8
+#EXTINF:0, BJTV-11
+http://tv.sau6.com/hls69a25.m3u8
+#EXTINF:0, BJTV-11
+http://tv.sau6.com/hls162.m3u8
+#EXTINF:0, BJTV-11
+http://tv.sau6.com/btv11hd.m3u8
+#EXTINF:0, 安徽卫视
+http://tv.sau6.com/hls71a16.m3u8
+#EXTINF:0, 安徽卫视
+http://tv.sau6.com/hls141.m3u8
+#EXTINF:0, 安徽卫视
+http://tv.sau6.com/ahhd.m3u8
+#EXTINF:0, 东方卫视
+http://tv.sau6.com/hls69a24.m3u8
+#EXTINF:0, 东方卫视
+http://tv.sau6.com/hls122.m3u8
+#EXTINF:0, 东方卫视
+http://tv.sau6.com/jlu_dfhd.m3u8
+#EXTINF:0, 东方卫视
+http://tv.sau6.com/dfhd.m3u8
+#EXTINF:0, 龙江卫视
+http://tv.sau6.com/hls71a14.m3u8
+#EXTINF:0, 龙江卫视
+http://tv.sau6.com/hls95.m3u8
+#EXTINF:0, 龙江卫视
+http://tv.sau6.com/hljhd.m3u8
+#EXTINF:0, 龙江卫视
+http://tv.sau6.com/hls85.m3u8
+#EXTINF:0, 湖南卫视
+http://tv.sau6.com/hls71a15.m3u8
+#EXTINF:0, 湖南卫视
+http://tv.sau6.com/hls115.m3u8
+#EXTINF:0, 湖南卫视
+http://tv.sau6.com/hunanhd.m3u8
+#EXTINF:0, 江苏卫视
+http://tv.sau6.com/hls68a52.m3u8
+#EXTINF:0, 江苏卫视
+http://tv.sau6.com/hls116.m3u8
+#EXTINF:0, 江苏卫视
+http://tv.sau6.com/jshd.m3u8
+#EXTINF:0, 辽宁卫视
+http://tv.sau6.com/hls74a1.m3u8
+#EXTINF:0, 辽宁卫视
+http://tv.sau6.com/hls126.m3u8
+#EXTINF:0, 辽宁卫视
+http://tv.sau6.com/lnhd.m3u8
+#EXTINF:0, 辽宁卫视
+http://tv.sau6.com/hls16.m3u8
+#EXTINF:0, 山东卫视
+http://tv.sau6.com/hls70a18.m3u8
+#EXTINF:0, 山东卫视
+http://tv.sau6.com/hls131.m3u8
+#EXTINF:0, 山东卫视
+http://tv.sau6.com/sdtv.m3u8
+#EXTINF:0, 山东卫视
+http://tv.sau6.com/sdhd.m3u8
+#EXTINF:0, 山东卫视
+http://tv.sau6.com/hls78.m3u8
+#EXTINF:0, 深圳卫视
+http://tv.sau6.com/hls70a20.m3u8
+#EXTINF:0, 深圳卫视
+http://tv.sau6.com/szhd.m3u8
+#EXTINF:0, 浙江卫视
+http://tv.sau6.com/hls68a51.m3u8
+#EXTINF:0, 浙江卫视
+http://tv.sau6.com/hls123.m3u8
+#EXTINF:0, 浙江卫视
+http://tv.sau6.com/jlu_zjhd.m3u8
+#EXTINF:0, 浙江卫视
+http://tv.sau6.com/zjtv.m3u8
+#EXTINF:0, 浙江卫视
+http://tv.sau6.com/zjhd.m3u8
+#EXTINF:0, 浙江卫视
+http://tv.sau6.com/hls70.m3u8
+#EXTINF:0, 浙江卫视
+http://tv.sau6.com/hls181.m3u8
+#EXTINF:0, 浙江卫视
+http://tv.sau6.com/lzu-zjws.m3u8
+#EXTINF:0, 广东卫视
+http://tv.sau6.com/hls70a19.m3u8
+#EXTINF:0, 广东卫视
+http://tv.sau6.com/hls130.m3u8
+#EXTINF:0, 广东卫视
+http://tv.sau6.com/gdhd.m3u8
+#EXTINF:0, 湖北卫视
+http://tv.sau6.com/hls70a17.m3u8
+#EXTINF:0, 湖北卫视
+http://tv.sau6.com/hls124.m3u8
+#EXTINF:0, 湖北卫视
+http://tv.sau6.com/hbhd.m3u8
+#EXTINF:0, 四川卫视
+http://tv.sau6.com/hls67a42.m3u8
+#EXTINF:0, 四川卫视
+http://tv.sau6.com/hls185.m3u8
+#EXTINF:0, 天津卫视
+http://tv.sau6.com/hls69a22.m3u8
+#EXTINF:0, 天津卫视
+http://tv.sau6.com/hls125.m3u8
+#EXTINF:0, 天津卫视
+http://tv.sau6.com/tjhd.m3u8
+#EXTINF:0, 重庆卫视
+http://tv.sau6.com/hls68a41.m3u8
+#EXTINF:0, 重庆卫视
+http://tv.sau6.com/hls186.m3u8
+#EXTINF:0, 重庆卫视
+http://tv.sau6.com/lzu-chongqing.m3u8
+#EXTINF:0, 重庆卫视
+http://tv.sau6.com/cqhd.m3u8
+#EXTINF:0, 重庆卫视
+http://tv.sau6.com/cqtv.m3u8
+#EXTINF:0, 重庆卫视
+http://tv.sau6.com/hls75.m3u8
+#EXTINF:0, 纪实
+http://tv.sau6.com/hls132.m3u8
+#EXTINF:0, 金鹰纪实
+http://tv.sau6.com/hls163.m3u8
+#EXTINF:0, CCTV-4
+http://tv.sau6.com/cctv4.m3u8
+#EXTINF:0, CCTV-7
+http://tv.sau6.com/cctv7.m3u8
+#EXTINF:0, CCTV-9
+http://tv.sau6.com/cctv9.m3u8
+#EXTINF:0, CCTV-10
+http://tv.sau6.com/cctv10.m3u8
+#EXTINF:0, CCTV-11
+http://tv.sau6.com/cctv11.m3u8
+#EXTINF:0, CCTV-12
+http://tv.sau6.com/cctv12.m3u8
+#EXTINF:0, CCTV-13
+http://tv.sau6.com/jlu_cctv13.m3u8
+#EXTINF:0, CCTV-14
+http://tv.sau6.com/cctv14.m3u8
+#EXTINF:0, CCTV-15
+http://tv.sau6.com/cctv15.m3u8
+#EXTINF:0, CCTV-NEWS
+http://tv.sau6.com/cctv16.m3u8
+#EXTINF:0, CCTV-NEWS
+http://tv.sau6.com/hls9.m3u8
+#EXTINF:0, CCTV-NEWS
+http://tv.sau6.com/lzu-cctvnews.m3u8
+#EXTINF:0, BJTV-1
+http://tv.sau6.com/hls177.m3u8
+#EXTINF:0, BJTV-3
+http://tv.sau6.com/btv3.m3u8
+#EXTINF:0, BJTV-4
+http://tv.sau6.com/btv4.m3u8
+#EXTINF:0, BJTV-5
+http://tv.sau6.com/btv5.m3u8
+#EXTINF:0, BJTV-7
+http://tv.sau6.com/btv7.m3u8
+#EXTINF:0, BJTV-8
+http://tv.sau6.com/btv8.m3u8
+#EXTINF:0, BJTV-9
+http://tv.sau6.com/btv9.m3u8
+#EXTINF:0, BJTV-10
+http://tv.sau6.com/btv10.m3u8
+#EXTINF:0, 辽宁影视剧
+http://tv.sau6.com/hls97.m3u8
+#EXTINF:0, 辽宁北方
+http://tv.sau6.com/hls55.m3u8
+#EXTINF:0, 辽宁都市
+http://tv.sau6.com/hls88.m3u8
+#EXTINF:0, 辽宁都市
+http://tv.sau6.com/hls187.m3u8
+#EXTINF:0, 辽宁生活
+http://tv.sau6.com/hls96.m3u8
+#EXTINF:0, 辽宁体育
+http://tv.sau6.com/hls3.m3u8
+#EXTINF:0, 教育青少
+http://tv.sau6.com/hls99.m3u8
+#EXTINF:0, 广东卫视
+http://tv.sau6.com/gdtv.m3u8
+#EXTINF:0, 广西卫视
+http://tv.sau6.com/gxtv.m3u8
+#EXTINF:0, 贵州卫视
+http://tv.sau6.com/gztv.m3u8
+#EXTINF:0, 河北卫视
+http://tv.sau6.com/hebtv.m3u8
+#EXTINF:0, 河北卫视
+http://tv.sau6.com/hls49.m3u8
+#EXTINF:0, 河南卫视
+http://tv.sau6.com/hntv.m3u8
+#EXTINF:0, 吉林卫视
+http://tv.sau6.com/jltv.m3u8
+#EXTINF:0, 江西卫视
+http://tv.sau6.com/jxtv.m3u8
+#EXTINF:0, 金鹰卡通
+http://tv.sau6.com/hls158.m3u8
+#EXTINF:0, 东南卫视
+http://tv.sau6.com/hls74.m3u8
+#EXTINF:0, 内蒙古卫视
+http://tv.sau6.com/nmtv.m3u8
+#EXTINF:0, 内蒙古卫视
+http://tv.sau6.com/hls111.m3u8
+#EXTINF:0, 内蒙古卫视
+http://tv.sau6.com/nxtv.m3u8
+#EXTINF:0, 宁夏卫视
+http://tv.sau6.com/hls34.m3u8
+#EXTINF:0, 青海卫视
+http://tv.sau6.com/qhtv.m3u8
+#EXTINF:0, 青海卫视
+http://tv.sau6.com/hls101.m3u8
+#EXTINF:0, 青海卫视
+http://tv.sau6.com/gstv.m3u8
+#EXTINF:0, 陕西卫视
+http://tv.sau6.com/sxtv.m3u8
+#EXTINF:0, 陕西卫视
+http://tv.sau6.com/hls35.m3u8
+#EXTINF:0, 陕西卫视
+http://tv.sau6.com/lzu-shanxi.m3u8
+#EXTINF:0, 四川卫视
+http://tv.sau6.com/sctv.m3u8
+#EXTINF:0, 西藏卫视
+http://tv.sau6.com/xztv.m3u8
+#EXTINF:0, 西藏卫视
+http://tv.sau6.com/hls114.m3u8
+#EXTINF:0, 厦门卫视
+http://tv.sau6.com/xmtv.m3u8
+#EXTINF:0, 厦门卫视
+http://tv.sau6.com/hls160.m3u8
+#EXTINF:0, 延边卫视
+http://tv.sau6.com/hls161.m3u8
+#EXTINF:0, 优漫卡通
+http://tv.sau6.com/hls159.m3u8
+#EXTINF:0, 兵团卫视
+http://tv.sau6.com/bttv.m3u8
+#EXTINF:0, 云南卫视
+http://tv.sau6.com/yntv.m3u8
+#EXTINF:0, 云南卫视
+http://tv.sau6.com/hls40.m3u8
+#EXTINF:0, 旅游卫视
+http://tv.sau6.com/lytv.m3u8
+#EXTINF:0, 旅游卫视
+http://tv.sau6.com/hls71.m3u8
+#EXTINF:0, 山西卫视
+http://tv.sau6.com/sxrtv.m3u8
+#EXTINF:0, 新疆卫视
+http://tv.sau6.com/xjtv.m3u8
+#EXTINF:0, 山西卫视
+http://tv.sau6.com/hls86.m3u8
+#EXTINF:0, 新疆卫视
+http://tv.sau6.com/hls18.m3u8
+#EXTINF:0, 大连新闻
+http://tv.sau6.com/hls142.m3u8
+#EXTINF:0, 纪实
+http://tv.sau6.com/docuchina.m3u8
+#EXTINF:0, 金鹰纪实
+http://tv.sau6.com/gedocu.m3u8
+#EXTINF:0, CCTV央视文化精品
+http://tv.sau6.com/hls61.m3u8
+#EXTINF:0, CCTV风云音乐
+http://tv.sau6.com/hls47.m3u8
+#EXTINF:0, CCTV风云足球
+http://tv.sau6.com/hls20.m3u8
+#EXTINF:0, CCTV国防军事
+http://tv.sau6.com/hls23.m3u8
+#EXTINF:0, CCTV女性时尚
+http://tv.sau6.com/hls44.m3u8
+#EXTINF:0, CCTV怀旧剧场
+http://tv.sau6.com/hls94.m3u8
+#EXTINF:0, CCTV生活健康
+http://tv.sau6.com/hls56.m3u8
+#EXTINF:0, CCTV发现之旅
+http://tv.sau6.com/hls58.m3u8
+#EXTINF:0, CCTV新科动漫
+http://tv.sau6.com/hls45.m3u8
+#EXTINF:0, CCTV老故事
+http://tv.sau6.com/hls113.m3u8
+#EXTINF:0, CCTV第一剧场
+http://tv.sau6.com/hls38.m3u8
+#EXTINF:0, CCTV世界地理
+http://tv.sau6.com/hls60.m3u8
+#EXTINF:0, CCTV高尔夫
+http://tv.sau6.com/hls98.m3u8
+#EXTINF:0, IPTV3+
+http://tv.sau6.com/hls118.m3u8
+#EXTINF:0, IPTV5+
+http://tv.sau6.com/hls119.m3u8
+#EXTINF:0, IPTV5+
+http://tv.sau6.com/hls184.m3u8
+#EXTINF:0, 海外剧场
+http://tv.sau6.com/hls8.m3u8
+#EXTINF:0, 梨国频道
+http://tv.sau6.com/hls42.m3u8
+#EXTINF:0, 留学世界
+http://tv.sau6.com/hls52.m3u8
+#EXTINF:0, 怀旧电影
+http://tv.sau6.com/hls48.m3u8
+#EXTINF:0, 靓妆
+http://tv.sau6.com/hls46.m3u8
+#EXTINF:0, 文物宝库
+http://tv.sau6.com/hls22.m3u8
+#EXTINF:0, 星影
+http://tv.sau6.com/hls59.m3u8
+#EXTINF:0, 彩民在线
+http://tv.sau6.com/hls28.m3u8
+#EXTINF:0, 茶频道
+http://tv.sau6.com/hls29.m3u8
+#EXTINF:0, 熊猫频道
+http://tv.sau6.com/hls148.m3u8
+#EXTINF:0, CCTV-俄语
+http://tv.sau6.com/lzu-cctv-p.m3u8
+#EXTINF:0, 城市电视
+http://tv.sau6.com/hls147.m3u8
+#EXTINF:0, 瓢虫汇
+http://tv.sau6.com/hls133.m3u8
+#EXTINF:0, CCTV-西班牙
+http://tv.sau6.com/lzu-cctv-e.m3u8
+#EXTINF:0, CCTV-法语
+http://tv.sau6.com/lzu-cctv-f.m3u8
+#EXTINF:0, 记录片
+http://tv.sau6.com/hls66.m3u8
+#EXTINF:0, 环球奇观
+http://tv.sau6.com/hls62.m3u8
+#EXTINF:0, 快乐锤钓
+http://tv.sau6.com/hls63.m3u8
+#EXTINF:0, 古装剧场
+http://tv.sau6.com/hls54.m3u8
+#EXTINF:0, 早期教育
+http://tv.sau6.com/hls25.m3u8
+#EXTINF:0, 卡酷少儿
+http://tv.sau6.com/hls57.m3u8
+#EXTINF:0, 生活剧场
+http://tv.sau6.com/hls37.m3u8
+#EXTINF:0, 卡通剧场
+http://tv.sau6.com/hls39.m3u8
+#EXTINF:0, 武术世界
+http://tv.sau6.com/hls36.m3u8
+#EXTINF:0, 热播电影
+http://tv.sau6.com/hls32.m3u8
+#EXTINF:0, 亚洲电影
+http://tv.sau6.com/hls30.m3u8
+#EXTINF:0, 原声电影
+http://tv.sau6.com/hls33.m3u8
+#EXTINF:0, 摄影频道
+http://tv.sau6.com/hls26.m3u8
+#EXTINF:0, 魅力时尚
+http://tv.sau6.com/hls53.m3u8
+#EXTINF:0, 电子体育
+http://tv.sau6.com/hls24.m3u8
+#EXTINF:0, 喜剧影院
+http://tv.sau6.com/hls6.m3u8
+#EXTINF:0, 少儿动画
+http://tv.sau6.com/hls104.m3u8
+#EXTINF:0, DV生活
+http://tv.sau6.com/hls109.m3u8
+#EXTINF:0, 英语辅导
+http://tv.sau6.com/hls107.m3u8
+#EXTINF:0, CCTV-阿拉伯
+http://tv.sau6.com/lzu-cctv-a.m3u8
+#EXTINF:0, 经典剧场
+http://tv.sau6.com/hls89.m3u8
+#EXTINF:0, 现代女性
+http://tv.sau6.com/hls91.m3u8
+#EXTINF:0, CCTV5+
+http://tv.sau6.com/hls92.m3u8
+#EXTINF:0, IPTV6+
+http://tv.sau6.com/hls127.m3u8
+#EXTINF:0, IPTV6+
+http://tv.sau6.com/hls182.m3u8
+#EXTINF:0, IPTV8+
+http://tv.sau6.com/hls128.m3u8
+#EXTINF:0, IPTV8+
+http://tv.sau6.com/hls183.m3u8
+#EXTINF:0, 测试一
+http://tv.sau6.com/hls178.m3u8
+#EXTINF:0, 测试二
+http://tv.sau6.com/hls179.m3u8
+#EXTINF:0, 测试三
+http://tv.sau6.com/hls180.m3u8
+#EXTINF:0, 测试四
+http://tv.sau6.com/hls175.m3u8
+#EXTINF:0, 测试六
+http://tv.sau6.com/hls168.m3u8
+#EXTINF:0, 测试七
+http://tv.sau6.com/hls189.m3u8
+#EXTINF:0, 国学频道
+http://tv.sau6.com/hls100.m3u8
+#EXTINF:0, 交通旅游
+http://tv.sau6.com/hls153.m3u8
+#EXTINF:0, 探索集锦
+http://tv.sau6.com/hls154.m3u8
+#EXTINF:0, 劲爆电影
+http://tv.sau6.com/hls155.m3u8
+#EXTINF:0, 移动电视
+http://tv.sau6.com/hls156.m3u8
+#EXTINF:0, 夏佳卡通
+http://tv.sau6.com/hls157.m3u8
+#EXTINF:0, 凤凰卫视
+http://tv.sau6.com/fhzx.m3u8
+#EXTINF:0, 凤凰中文
+http://tv.sau6.com/fhzw.m3u8
+#EXTINF:0, 哈尔滨都市
+http://tv.sau6.com/jlu_jsds.m3u8
+#EXTINF:0, DISCOVERY
+http://tv.sau6.com/discovery.m3u8
+#EXTINF:0, STARTV
+http://tv.sau6.com/startv.m3u8
+#EXTINF:0, FHDY
+http://tv.sau6.com/fhdy.m3u8
+#EXTINF:0, CHANNELV
+http://tv.sau6.com/channelv.m3u8
+#EXTINF:0, 超级体育
+http://tv.sau6.com/hls196.m3u8
+#EXTINF:0, UBabyTV
+http://tv.sau6.com/hls15.m3u8
+#EXTINF:0, NATLGEO
+http://tv.sau6.com/natlgeo.m3u8
+#EXTINF:0, 艺术
+http://tv.sau6.com/hls51.m3u8
+#EXTINF:0, 甘肃卫视
+http://tv.sau6.com/hls50.m3u8
+#EXTINF:0, CCTV-1
+http://tv.sau6.com/cctv1.m3u8
+#EXTINF:0, CCTV-1
+http://tv.sau6.com/hls1.m3u8
+#EXTINF:0, CCTV-1
+http://tv.sau6.com/jlu_cctv1hd.m3u8
+#EXTINF:0, CCTV-2
+http://tv.sau6.com/jlu_cctv2hd.m3u8
+#EXTINF:0, CCTV-2
+http://tv.sau6.com/lzu-cctv2.m3u8
+#EXTINF:0, CCTV-3
+http://tv.sau6.com/cctv3.m3u8
+#EXTINF:0, CCTV-4
+http://tv.sau6.com/lzu-cctv4.m3u8
+#EXTINF:0, CCTV-7
+http://tv.sau6.com/lzu-cctv7.m3u8
+#EXTINF:0, CCTV-9
+http://tv.sau6.com/hls5.m3u8
+#EXTINF:0, CCTV-10
+http://tv.sau6.com/lzu-cctv10.m3u8
+#EXTINF:0, CCTV-11
+http://tv.sau6.com/lzu-cctv11.m3u8
+#EXTINF:0, CCTV-11
+http://tv.sau6.com/hls11.m3u8
+#EXTINF:0, CCTV-12
+http://tv.sau6.com/lzu-cctv12.m3u8
+#EXTINF:0, CCTV-13
+http://tv.sau6.com/lzu-cctv13.m3u8
+#EXTINF:0, CCTV-13
+http://tv.sau6.com/cctv13.m3u8
+#EXTINF:0, CCTV-13
+http://tv.sau6.com/hls13.m3u8
+#EXTINF:0, CCTV-14
+http://tv.sau6.com/lzu-cctv14.m3u8
+#EXTINF:0, CCTV-14
+http://tv.sau6.com/hls14.m3u8
+#EXTINF:0, CCTV-15
+http://tv.sau6.com/lzu-cctv15.m3u8
+#EXTINF:0, CCTV-15
+http://tv.sau6.com/hls41.m3u8
+#EXTINF:0, BJTV-1
+http://tv.sau6.com/btv1.m3u8
+#EXTINF:0, BJTV-1
+http://tv.sau6.com/lzu-beijing.m3u8
+#EXTINF:0, BJTV-1
+http://tv.sau6.com/hls68.m3u8
+#EXTINF:0, BJTV-2
+http://tv.sau6.com/btv2.m3u8
+#EXTINF:0, BJTV-6
+http://tv.sau6.com/btv6.m3u8
+#EXTINF:0, 安徽卫视
+http://tv.sau6.com/ahtv.m3u8
+#EXTINF:0, 安徽卫视
+http://tv.sau6.com/hls73.m3u8
+#EXTINF:0, 东方卫视
+http://tv.sau6.com/lzu-dfws.m3u8
+#EXTINF:0, 东方卫视
+http://tv.sau6.com/dftv.m3u8
+#EXTINF:0, 龙江卫视
+http://tv.sau6.com/lzu-hlj.m3u8
+#EXTINF:0, 龙江卫视
+http://tv.sau6.com/hljtv.m3u8
+#EXTINF:0, 湖南卫视
+http://tv.sau6.com/hunantv.m3u8
+#EXTINF:0, 湖南卫视
+http://tv.sau6.com/hls69.m3u8
+#EXTINF:0, 江苏卫视
+http://tv.sau6.com/jstv.m3u8
+#EXTINF:0, 辽宁卫视
+http://tv.sau6.com/lzu-liaoning.m3u8
+#EXTINF:0, 辽宁卫视
+http://tv.sau6.com/lntv.m3u8
+#EXTINF:0, 江苏卫视
+http://tv.sau6.com/lzu-jsws.m3u8
+#EXTINF:0, 江苏卫视
+http://tv.sau6.com/hls17.m3u8
+#EXTINF:0, 江苏卫视
+http://tv.sau6.com/hls79.m3u8
+#EXTINF:0, 山东卫视
+http://tv.sau6.com/lzu-shandong.m3u8
+#EXTINF:0, 深圳卫视
+http://tv.sau6.com/sztv.m3u8
+#EXTINF:0, 深圳卫视
+http://tv.sau6.com/hls106.m3u8
+#EXTINF:0, 深圳卫视
+http://tv.sau6.com/hls110.m3u8
+#EXTINF:0, 广东卫视
+http://tv.sau6.com/lzu-guangdong.m3u8
+#EXTINF:0, 广东卫视
+http://tv.sau6.com/hls72.m3u8
+#EXTINF:0, 广西卫视
+http://tv.sau6.com/lzu-guangxi.m3u8
+#EXTINF:0, 广西卫视
+http://tv.sau6.com/hls76.m3u8
+#EXTINF:0, 贵州卫视
+http://tv.sau6.com/lzu-guizhou.m3u8
+#EXTINF:0, 贵州卫视
+http://tv.sau6.com/hls87.m3u8
+#EXTINF:0, 河南卫视
+http://tv.sau6.com/lzu-henan.m3u8
+#EXTINF:0, 河南卫视
+http://tv.sau6.com/hls80.m3u8
+#EXTINF:0, 湖北卫视
+http://tv.sau6.com/lzu-hubei.m3u8
+#EXTINF:0, 湖北卫视
+http://tv.sau6.com/hbtv.m3u8
+#EXTINF:0, 湖北卫视
+http://tv.sau6.com/hls83.m3u8
+#EXTINF:0, 吉林卫视
+http://tv.sau6.com/lzu-jilin.m3u8
+#EXTINF:0, 吉林卫视
+http://tv.sau6.com/hls84.m3u8
+#EXTINF:0, 江西卫视
+http://tv.sau6.com/hls82.m3u8
+#EXTINF:0, 东南卫视
+http://tv.sau6.com/dntv.m3u8
+#EXTINF:0, 东南卫视
+http://tv.sau6.com/lzu-dongnan.m3u8
+#EXTINF:0, 四川卫视
+http://tv.sau6.com/lzu-sichuan.m3u8
+#EXTINF:0, 四川卫视
+http://tv.sau6.com/hls77.m3u8
+#EXTINF:0, 天津卫视
+http://tv.sau6.com/lzu-tianjin.m3u8
+#EXTINF:0, 天津卫视
+http://tv.sau6.com/tjtv.m3u8
+#EXTINF:0, 天津卫视
+http://tv.sau6.com/hls81.m3u8
+#EXTINF:0, 兵团卫视
+http://tv.sau6.com/hls67.m3u8
+#EXTINF:0, 云南卫视
+http://tv.sau6.com/lzu-yunnan.m3u8
+#EXTINF:0, CGTN
+http://tv.sau6.com/hls67a43.m3u8
+#EXTINF:0, CETV1
+http://tv.sau6.com/hls67a45.m3u8
+#EXTINF:0, 精选
+http://tv.sau6.com/hls102.m3u8
+#EXTINF:0, DOCUMENTARY
+http://tv.sau6.com/hls67a44.m3u8
+#EXTINF:0, 译制片
+http://tv.sau6.com/hls31.m3u8
+#EXTINF:0, CNTV(CCTV-1)
+http://tv.sau6.com/hls174.m3u8
+#EXTINF:0, CNTV(CCTV-2)
+http://tv.sau6.com/hls2.m3u8
+#EXTINF:0, CNTV(CCTV-3)
+http://tv.sau6.com/hls173.m3u8
+#EXTINF:0, CNTV(CCTV-7)
+http://tv.sau6.com/hls7.m3u8
+#EXTINF:0, CNTV(CCTV-9)
+http://tv.sau6.com/hls170.m3u8
+#EXTINF:0, CNTV(CCTV-10)
+http://tv.sau6.com/hls10.m3u8
+#EXTINF:0, CNTV(CCTV-12)
+http://tv.sau6.com/hls12.m3u8
+#EXTINF:0, CNTV(CCTV-14)
+http://tv.sau6.com/hls172.m3u8
