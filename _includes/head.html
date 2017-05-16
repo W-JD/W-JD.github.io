@@ -9,3 +9,25 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <script>
+    if((getCookie('login')=true)
+    {
+      var user = getCookie('user')
+      document.getElementById("loginform").style.display='none';
+      loginstatus=getCookie('user')+'，欢迎您。<br><br>';
+      loginstatus += '<form id="loginform" method="post"><input type="submit" value="退出登录" style="background-color: #40A6FF; height:30; width:100px; font-size:0.9em;color:#FFFFFF;"/></form>';
+      document.getElementById("loginstatus").innerHTML=loginstatus;
+    }
+    
+    function Hide() {
+      var x = document.getElementById('login');
+      if (x.style.display === 'none') {
+        x.style.display = 'block';
+        
+      } else {
+        x.style.display = 'none';
+        
+      }
+      
+    }
+    </script>
