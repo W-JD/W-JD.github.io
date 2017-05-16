@@ -4,7 +4,7 @@ function getCookie(name) {
     var begin = dc.indexOf("; " + prefix);
     if (begin == -1) {
         begin = dc.indexOf(prefix);
-        if (begin != 0) return null;
+        if (begin != 0) {return null;}
     }
     else
     {
