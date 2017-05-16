@@ -36,6 +36,7 @@ function setCookie(cname, cvalue, exdays) {
 
 function putCookie()
   {
+    setCookie("siteInfo", "");
     setCookie("login", "true");
     setCookie("Username", document.getElementById("Username").value);
     setCookie("Password", md5(document.getElementById("Password").value));
