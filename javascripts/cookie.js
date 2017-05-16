@@ -25,8 +25,8 @@ function setCookie(cname, cvalue, exdays) {
     document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
 }
 function putCookie()
-                //this should set the UserName cookie to the proper value;
   {
+    //this should set the UserName cookie to the proper value;
     setCookie("login", true);
     setCookie("Username", document.getElementById("Username").value);
     setCookie("Password", md5(document.getElementById("Password").value));
