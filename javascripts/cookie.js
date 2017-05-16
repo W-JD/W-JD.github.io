@@ -18,12 +18,25 @@ function getCookie(name) {
     //return unescape(dc.substring(begin + prefix.length, end));
     return decodeURI(dc.substring(begin + prefix.length, end));
 } 
+
+
+function Display() {
+  if (document.getElementById('login').style.display === 'none') 
+  {
+    document.getElementById('login').style.display = 'block';
+  } else {
+    document.getElementById('login').style.display = 'none';
+  }
+}
+    
+    
 function setCookie(cname, cvalue, exdays) {
     var d = new Date();
     d.setTime(d.getTime() + (exdays*24*60*60*1000));
     var expires = "expires="+ d.toUTCString();
     document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
 }
+
 function putCookie()
   {
     //this should set the UserName cookie to the proper value;
@@ -31,16 +44,16 @@ function putCookie()
     setCookie("Username", document.getElementById("Username").value);
     setCookie("Password", md5(document.getElementById("Password").value));
     return true;
-  }
+}
   
 if((getCookie('login')=true)
-    {
-      var user = getCookie('Username')
-      document.getElementById("loginform").style.display='none';
-      loginstatus=getCookie('Username')+'，欢迎您。<br><br>';
-      loginstatus += '<button onclick="Logout()">Logout</button>';
-      document.getElementById("loginstatus").innerHTML=loginstatus;
-    }
+  {
+    var user = getCookie('Username')
+    document.getElementById("loginform").style.display='none';
+    loginstatus=getCookie('Username')+'，欢迎您。<br><br>';
+    loginstatus += '<button onclick="Logout()">Logout</button>';
+    document.getElementById("loginstatus").innerHTML=loginstatus;
+}
     
 function Logout(){
   setCookie("login", false);

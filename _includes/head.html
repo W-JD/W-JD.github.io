@@ -4,22 +4,12 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.github.url }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ site.github.url }}/stylesheets/github-light.css">
-    <script src="{{ site.github.url }}/javascripts/scale.fix.js"></script>
-    <script src="{{ site.github.url }}/javascripts/cookie.js"></script>
+    <script type="text/javascript" src="{{ site.github.url }}/javascripts/scale.fix.js"></script>
+    <script type="text/javascript" src="{{ site.github.url }}/javascripts/cookie.js"></script>
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script type="text/javascript">
-    if((getCookie('login')=true)
-    {
-      var user = getCookie('user')
-      document.getElementById("loginform").style.display='none';
-      loginstatus=getCookie('user')+'，欢迎您。<br><br>';
-      loginstatus += '<form id="loginform" method="post"><input type="submit" value="退出登录" style="background-color: #40A6FF; height:30; width:100px; font-size:0.9em;color:#FFFFFF;"/></form>';
-      document.getElementById("loginstatus").innerHTML=loginstatus;
-    }
-    </script>
     <script type="text/javascript">
     function Display() {
     if (document.getElementById('login').style.display === 'none') {
