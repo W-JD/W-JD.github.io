@@ -4,7 +4,7 @@ function getCookie(name) {
     var begin = dc.indexOf("; " + prefix);
     if (begin == -1) {
         begin = dc.indexOf(prefix);
-        if (begin != 0) {return null;}
+        if (begin !== 0) {return null;}
     }
     else
     {
@@ -42,11 +42,11 @@ function putCookie()
     return true;
 }
   
-if((getCookie('login')=true)
+if (getCookie('login')=true)
   {
     var user = getCookie('Username')
     document.getElementById("loginform").style.display='none';
-    loginstatus=getCookie('Username')+'，欢迎您。<br><br>';
+    var loginstatus=getCookie('Username')+'，欢迎您。<br><br>';
     loginstatus += '<button onclick="Logout()">Logout</button>';
     document.getElementById("loginstatus").innerHTML=loginstatus;
 }
