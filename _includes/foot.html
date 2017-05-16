@@ -1,10 +1,10 @@
-<footer><p>Powered by Jekyll<br><small>Page generated on {{ site.time | date: "%B %d %Y  %T"}}</small></p></footer>
+	<a href="javascript:Hide()">login</a>
 	<form id="login">
-	<div style="margin:5px 0px;">Username: <input type=text name="Username" style="width:200px;height:25px"></div>
-  <div style="margin:5px 0px;">Password: <input type=password name="Password" style="width:200px;height:25px"></div>
-  <input type="button" value="登录" id="submit" onclick="putCookie(document.getElementsByTagName('form'));">
+	<p id="login">Username: <input type=text name="Username" style="width:200px;height:25px"></p>
+  <p id="login">Password: <input type=password name="Password" style="width:200px;height:25px"></p>
+  <input type="button" value="登录" id="login" onclick="putCookie(document.getElementsByTagName('form'));">
   </form>
-
+  <footer><p>Powered by Jekyll<br><small>Page generated on {{ site.time | date: "%B %d %Y  %T"}}</small></p></footer>
 <script>
   
 if((getCookie('login')=true)
@@ -16,5 +16,13 @@ if((getCookie('login')=true)
 	document.getElementById("loginstatus").innerHTML=loginstatus;
 	   
    }
-
+function Hide() {
+    var x = document.getElementById('login');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+document.getElementById('login').style.display = 'none';
 </script>
