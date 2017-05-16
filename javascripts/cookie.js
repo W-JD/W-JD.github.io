@@ -24,6 +24,7 @@ function Display() {
   } else {
     document.getElementById('login').style.display = 'none';
   }
+  login();
 }
     
     
@@ -39,25 +40,19 @@ function putCookie()
     setCookie("siteInfo", "");
     setCookie("login", "true");
     setCookie("Username", document.getElementById("Username").value);
-    setCookie("Password", document.getElementById("Password").value);
+    setCookie("Password", md5(document.getElementById("Password").value));
     return true;
-    
-    if ((getCookie('login')=="true")&&(md5(getCookie('Username')+getCookie('Password')+getCookie('Username'))=='3cad96bbb2f77a485980089210abd3b3'))
-  {
-    user = getCookie('Username')
-    document.getElementById("loginform").style.display='none';
-    loginstatus=getCookie('Username')+'，欢迎您。<br><br>';
-    loginstatus += '<button onclick="Logout()">Logout</button>';
-    document.getElementById("loginstatus").innerHTML=loginstatus;
-}
+    login();
 }
 
-if ((getCookie('login')=="true")&&(md5(getCookie('Username')+getCookie('Password')+getCookie('Username'))=='3cad96bbb2f77a485980089210abd3b3'))
+function login() {
+if ((getCookie('login')=="true")&&(md5(getCookie('Username')+getCookie('Password')+getCookie('Username'))=='f1041d9cd26a0f709b706a4035afb4ab'))
   {
-    user = getCookie('Username')
+    var loginstatus;
     loginstatus=getCookie('Username')+'，欢迎您。<br><br>';
     loginstatus += '<button onclick="Logout()">Logout</button>';
     document.getElementById("loginform").innerHTML=loginstatus;
+}
 }
     
 function Logout(){
