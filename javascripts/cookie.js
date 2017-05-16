@@ -36,13 +36,13 @@ function setCookie(cname, cvalue, exdays) {
 
 function putCookie()
   {
-    setCookie("login", true);
+    setCookie("login", 'true');
     setCookie("Username", document.getElementById("Username").value);
     setCookie("Password", md5(document.getElementById("Password").value));
     return true;
 }
   
-if (getCookie('login')=true)
+if (getCookie('login')='true')
   {
     var user = getCookie('Username')
     document.getElementById("loginform").style.display='none';
