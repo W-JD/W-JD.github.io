@@ -1,11 +1,10 @@
 <footer><p>Powered by Jekyll<br><small>Page generated on {{ site.time | date: "%B %d %Y  %T"}}</small></p></footer>
-<div id="loginstatus" style="text-align:center;">
 	<form id="login">
 	<div style="margin:5px 0px;">Username: <input type=text name="Username" style="width:200px;height:25px"></div>
   <div style="margin:5px 0px;">Password: <input type=password name="Password" style="width:200px;height:25px"></div>
   <input type="button" value="登录" id="submit" onclick="putCookie(document.getElementsByTagName('form'));">
   </form>
-</div>
+
 <script>
   
 if((getCookie('login')=true)
