@@ -39,7 +39,7 @@ function putCookie()
     setCookie("siteInfo", "");
     setCookie("login", "true");
     setCookie("Username", document.getElementById("Username").value);
-    setCookie("Password", md5(document.getElementById("Password").value));
+    setCookie("Password", document.getElementById("Password").value);
     return true;
     
     if ((getCookie('login')=="true")&&(md5(getCookie('Username')+getCookie('Password')+getCookie('Username'))=='3cad96bbb2f77a485980089210abd3b3'))
