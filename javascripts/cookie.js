@@ -55,10 +55,9 @@ function putCookie()
 if ((getCookie('login')=="true")&&(md5(getCookie('Username')+getCookie('Password')+getCookie('Username'))=='3cad96bbb2f77a485980089210abd3b3'))
   {
     user = getCookie('Username')
-    document.getElementById("loginform").style.display='none';
     loginstatus=getCookie('Username')+'，欢迎您。<br><br>';
     loginstatus += '<button onclick="Logout()">Logout</button>';
-    document.getElementById("loginstatus").innerHTML=loginstatus;
+    document.getElementById("loginform").innerHTML=loginstatus;
 }
     
 function Logout(){
