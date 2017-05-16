@@ -24,10 +24,10 @@ function setCookie(cname, cvalue, exdays) {
     var expires = "expires="+ d.toUTCString();
     document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
 }
-function putCookie(form)
+function putCookie()
                 //this should set the UserName cookie to the proper value;
   {
-   setCookie("Username", form[0].Username.value);
-   setCookie("Password", form[0].Password.value);
+   setCookie("Username", md5(document.getElementById("Username").value));
+   setCookie("Password", md5(document.getElementById("Password").value));
     return true;
   }
