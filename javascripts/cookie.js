@@ -14,11 +14,8 @@ function getCookie(name) {
         end = dc.length;
         }
     }
-    // because unescape has been deprecated, replaced with decodeURI
-    //return unescape(dc.substring(begin + prefix.length, end));
     return decodeURI(dc.substring(begin + prefix.length, end));
-}; 
-
+}
 
 function Display() {
   if (document.getElementById('login').style.display === 'none') 
@@ -39,7 +36,6 @@ function setCookie(cname, cvalue, exdays) {
 
 function putCookie()
   {
-    //this should set the UserName cookie to the proper value;
     setCookie("login", true);
     setCookie("Username", document.getElementById("Username").value);
     setCookie("Password", md5(document.getElementById("Password").value));
@@ -57,6 +53,6 @@ if((getCookie('login')=true)
     
 function Logout(){
   setCookie("login", false);
-  document.cookie="Username=;expires=Wed; 01 Jan 1970"
-  document.cookie="Password=;expires=Wed; 01 Jan 1970"
+  document.cookie="Username=;expires=Wed; 01 Jan 1970";
+  document.cookie="Password=;expires=Wed; 01 Jan 1970";
 }
