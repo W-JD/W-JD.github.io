@@ -27,7 +27,23 @@ function setCookie(cname, cvalue, exdays) {
 function putCookie()
                 //this should set the UserName cookie to the proper value;
   {
-   setCookie("Username", md5(document.getElementById("Username").value));
-   setCookie("Password", md5(document.getElementById("Password").value));
+    setCookie("login", true);
+    setCookie("Username", document.getElementById("Username").value);
+    setCookie("Password", md5(document.getElementById("Password").value));
     return true;
   }
+  
+if((getCookie('login')=true)
+    {
+      var user = getCookie('Username')
+      document.getElementById("loginform").style.display='none';
+      loginstatus=getCookie('Username')+'，欢迎您。<br><br>';
+      loginstatus += '<button onclick="Logout()">Logout</button>';
+      document.getElementById("loginstatus").innerHTML=loginstatus;
+    }
+    
+function Logout(){
+  setCookie("login", false);
+  document.cookie="Username=;expires=Wed; 01 Jan 1970"
+  document.cookie="Password=;expires=Wed; 01 Jan 1970"
+}

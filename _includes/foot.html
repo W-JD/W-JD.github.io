@@ -1,8 +1,10 @@
 	<footer>
+	<div id="loginform">
 	<button onclick="Display()">Login</button>
 	<form id="login" style="display:none;">
 	<p>Username: <input type=text name="Username"></p>
   <p>Password: <input type=password name="Password"></p>
   <input type="button" value="登录" onclick="putCookie();">
+  </div>
   </form>
   <p>Powered by Jekyll<br><small>Page generated on {{ site.time | date: "%B %d %Y  %T"}}</small></p></footer>
