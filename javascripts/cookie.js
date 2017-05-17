@@ -60,3 +60,15 @@ function Logout(){
   document.cookie="Username=;expires=Wed; 01 Jan 1970";
   document.cookie="Password=;expires=Wed; 01 Jan 1970";
 }
+
+
+
+
+document.onreadystatechange = function () {
+  var state = document.readyState
+  if (state == 'interactive') {
+      login();
+  } else if (state == 'complete') {
+      login();
+  }
+}
