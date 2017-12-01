@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</div>
+<script src="bower_components/kuroshiro/dist/browser/kuroshiro.min.js"></script>
+<script>
+	var url_string = window.location.href; //window.location.href
+	var url = new URL(url_string);
+	var oritext = url.searchParams.get("i");
+	var to = url.searchParams.get("to");
+	var mode = url.searchParams.get("mode");
+    kuroshiro.init(function(){
+	convert();
+    });
+
+    function convert(){
+        var result = kuroshiro.convert(oritext,{to:to,mode:mode});
+        document.write(result);
+		document.close();
+    }
+</script>
+</head>
+</html>
